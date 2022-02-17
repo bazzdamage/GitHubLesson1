@@ -42,3 +42,13 @@
 * list item 1
 * list item 2
 * list item 3
+# Header 1
+## Header 2
+ __Bold__
+
+ _Italic_
+
+ *Alt Italic*
+
+ **Alt Bold**
+ 
