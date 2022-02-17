@@ -32,3 +32,13 @@
 * git checkout master - wsitch to branch "master"
 
 ![Images types](SH01.png)
+
+# Lists
+
+1. Numbered list item 1
+2. Numbered list item 2
+3. Numbered list item 3
+
+* list item 1
+* list item 2
+* list item 3
