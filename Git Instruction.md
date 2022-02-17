@@ -25,9 +25,17 @@
 
 * git commit - commit changes of added files.
 
+* git commit -am - commit all changes
+
+* git branch - show all branches in repository
+
+* git branch BRANCH_NAME - create branch with BRANCH_NAME
+
 * git log - show log of committed files with commit hash.
 
 * git checkout **first 4 digits of hash num** - switch to commit with entered hash num.
+
+* git checkout BRANCH_NAME - switch current branch to BRANCH_NAME
 
 * git checkout master - wsitch to branch "master"
 
