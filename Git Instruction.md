@@ -4,7 +4,7 @@
 * list
 * list 2
 
-## Before init
+## Before init small change
 
 > git config --global user.name "Name"
 
