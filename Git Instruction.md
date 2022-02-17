@@ -32,3 +32,14 @@
 * git checkout master - wsitch to branch "master"
 
 ![Images types](SH01.png)
+
+# Header 1
+## Header 2
+ __Bold__
+
+ _Italic_
+
+ *Alt Italic*
+
+ **Alt Bold**
+ 
