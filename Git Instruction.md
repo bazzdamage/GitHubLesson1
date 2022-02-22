@@ -41,6 +41,12 @@
 
 * git checkout master - wsitch to branch "master"
 
+## Git commands for remote repo's
+
+* git push - 
+
+* git pull - 
+
 ![Images types](SH01.png)
 
 # Lists
